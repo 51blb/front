@@ -1,5 +1,5 @@
 {
-  "name": "wexin.91blb.com",
+  "name": "www.51blb.com",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/91blb/weixin.git"
+    "url": "https://github.com/51blb/front.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/91blb/weixin/issues"
+    "url": "https://github.com/51blb/front/issues"
   },
   "dependencies": {
-    "MD5": "^1.2.1",
+    "MD5": "^2.x",
     "beautifier": "^0.1.7",
     "body-parser": "^1.10.2",
     "colors": "^1.0.3",
