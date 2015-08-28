@@ -16,7 +16,7 @@
     "url": "https://github.com/51blb/front/issues"
   },
   "dependencies": {
-    "MD5": "^2.x",
+    "MD5": "^1.2.x",
     "beautifier": "^0.1.7",
     "body-parser": "^1.10.2",
     "colors": "^1.0.3",
