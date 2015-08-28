@@ -1,11 +1,36 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
+﻿# Object files
+*.o
+*.ko
+*.obj
+*.elf
 
-# Other files and folders
-.settings/
+# Precompiled Headers
+*.gch
+*.pch
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+node_modules/
+test/
+# 系统配置文件
+sysconf/
