@@ -41,7 +41,7 @@ exports.canvas=Canvas;
 */
 exports.getMaxChars = function(minErrorCorrectionLevel,width,moduleScale){
 	//TODO THIS NEEDS TO WORK
-  console.log('this doesnt work yet. comming soon =)');
+  console.log('this doesnt work yet. coming soon =)');
 };
 
 
