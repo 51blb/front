@@ -31,7 +31,7 @@ var formData = {
 };
 
 var url = "http://service.com/upload";
-var url = "http://127.0.0.1:3000/handler/upload/reciever";
+var url = "http://127.0.0.1:3000/handler/upload/receiver";
 request.post({
   url: url,
   formData: formData

@@ -144,7 +144,7 @@ QRCodeDraw.prototype = {
     }
 
 
-    //this interface kinda sucks - there is very small likelyhood of this ever being async
+    //this interface kinda sucks - there is very small likelihood of this ever being async
     this.QRVersion(text,errorCorrectLevel,(options||{}).version,function(e,t,l,ec){
       text = t,level = l,error = e,errorCorrectLevel = ec;
     });
